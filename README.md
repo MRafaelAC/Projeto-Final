@@ -38,4 +38,3 @@ Teclas Para Jogar
 
 Espaço — Disparar.
 
-Esc — Sair do jogo.
