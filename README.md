@@ -21,15 +21,15 @@ Funcionalidades
 
 Estrutura
 
-Game1.cs	- Lógica principal do jogo (input, atualização, rendering, lógica geral)
+-Game1.cs	- Lógica principal do jogo (input, atualização, rendering, lógica geral)
 
-Enemy.cs	- Classe dos inimigos
+-Enemy.cs	- Classe dos inimigos
 
-Bullet.cs	- Classe das balas (jogador e inimigos)
+-Bullet.cs	- Classe das balas (jogador e inimigos)
 
-Content/	- Imagens (player.png, enemy.png, bullet.png) e fonte (font.spritefont)
+-Content/	- Imagens (player.png, enemy.png, bullet.png) e fonte (font.spritefont)
 
-highscore.txt	- Guarda o recorde (criado automaticamente na primeira execução)
+-highscore.txt	- Guarda o recorde (criado automaticamente na primeira execução)
 
 
 Teclas Para Jogar
