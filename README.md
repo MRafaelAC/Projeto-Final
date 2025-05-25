@@ -6,10 +6,15 @@ O jogo consite num remake simples do clássico Space Invaders, feito em MonoGame
 
 Funcionalidades
 -Controlo lateral da nave com as teclas ← →.
+
 -Disparo com Barra de Espaço.
+
 -Inimigos que se movem lateralmente.
+
 -Progreção de dificuldade com os inimigos a dispararem mais rapidamente.
+
 -Sistema de pontuação e High Score guardado em ficheiro.
+
 -Reinício automático ao ser atingido.
 
 Estrutura
