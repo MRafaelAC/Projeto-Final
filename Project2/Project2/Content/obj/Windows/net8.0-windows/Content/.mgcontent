@@ -7,12 +7,20 @@
     <File>C:/Users/Rafael/jogo mono/Project2/Project2/Content/bullet.png</File>
     <File>C:/Users/Rafael/jogo mono/Project2/Project2/Content/enemy.png</File>
     <File>C:/Users/Rafael/jogo mono/Project2/Project2/Content/File.spritefont</File>
+    <File>C:/Users/Rafael/jogo mono/Project2/Project2/Content/inimigo.wav</File>
+    <File>C:/Users/Rafael/jogo mono/Project2/Project2/Content/jogador.wav</File>
+    <File>C:/Users/Rafael/jogo mono/Project2/Project2/Content/musicaf.mp3</File>
     <File>C:/Users/Rafael/jogo mono/Project2/Project2/Content/player.png</File>
+    <File>C:/Users/Rafael/jogo mono/Project2/Project2/Content/tiro.wav</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File>Font.spritefont</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
   </DestFiles>
 </SourceFileCollection>

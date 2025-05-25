@@ -28,3 +28,8 @@ C:\Users\Rafael\jogo mono\Project2\Project2\obj\Debug\net8.0-windows\Project2.ge
 C:\Users\Rafael\jogo mono\Project2\Project2\obj\Debug\net8.0-windows\ref\Project2.dll
 C:\Users\Rafael\jogo mono\Project2\Project2\bin\Debug\net8.0-windows\Content\bullet.xnb
 C:\Users\Rafael\jogo mono\Project2\Project2\bin\Debug\net8.0-windows\Content\Font.xnb
+C:\Users\Rafael\jogo mono\Project2\Project2\bin\Debug\net8.0-windows\Content\inimigo.xnb
+C:\Users\Rafael\jogo mono\Project2\Project2\bin\Debug\net8.0-windows\Content\tiro.xnb
+C:\Users\Rafael\jogo mono\Project2\Project2\bin\Debug\net8.0-windows\Content\jogador.xnb
+C:\Users\Rafael\jogo mono\Project2\Project2\bin\Debug\net8.0-windows\Content\musicaf.wma
+C:\Users\Rafael\jogo mono\Project2\Project2\bin\Debug\net8.0-windows\Content\musicaf.xnb

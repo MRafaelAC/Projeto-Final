@@ -7,12 +7,16 @@
       "RelativeMoniker": "D:0:0:{C85BAF89-CBB6-440C-B7E0-BF1D1A7E93B9}|Project2\\Project2.csproj|solutionrelative:project2\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C85BAF89-CBB6-440C-B7E0-BF1D1A7E93B9}|Project2\\Project2.csproj|c:\\users\\rafael\\jogo mono\\project2\\project2\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C85BAF89-CBB6-440C-B7E0-BF1D1A7E93B9}|Project2\\Project2.csproj|solutionrelative:project2\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C85BAF89-CBB6-440C-B7E0-BF1D1A7E93B9}|Project2\\Project2.csproj|c:\\users\\rafael\\jogo mono\\project2\\project2\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C85BAF89-CBB6-440C-B7E0-BF1D1A7E93B9}|Project2\\Project2.csproj|solutionrelative:project2\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C85BAF89-CBB6-440C-B7E0-BF1D1A7E93B9}|Project2\\Project2.csproj|c:\\users\\rafael\\jogo mono\\project2\\project2\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C85BAF89-CBB6-440C-B7E0-BF1D1A7E93B9}|Project2\\Project2.csproj|solutionrelative:project2\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C85BAF89-CBB6-440C-B7E0-BF1D1A7E93B9}|Project2\\Project2.csproj|c:\\users\\rafael\\jogo mono\\project2\\project2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C85BAF89-CBB6-440C-B7E0-BF1D1A7E93B9}|Project2\\Project2.csproj|solutionrelative:project2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,21 +26,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Bullet.cs",
               "DocumentMoniker": "C:\\Users\\Rafael\\jogo mono\\Project2\\Project2\\Bullet.cs",
               "RelativeDocumentMoniker": "Project2\\Bullet.cs",
               "ToolTip": "C:\\Users\\Rafael\\jogo mono\\Project2\\Project2\\Bullet.cs",
               "RelativeToolTip": "Project2\\Bullet.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAIwCgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-25T14:03:08.627Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -48,16 +51,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\jogo mono\\Project2\\Project2\\Program.cs",
+              "RelativeDocumentMoniker": "Project2\\Program.cs",
+              "ToolTip": "C:\\Users\\Rafael\\jogo mono\\Project2\\Project2\\Program.cs",
+              "RelativeToolTip": "Project2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T17:22:41.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Enemy.cs",
               "DocumentMoniker": "C:\\Users\\Rafael\\jogo mono\\Project2\\Project2\\Enemy.cs",
               "RelativeDocumentMoniker": "Project2\\Enemy.cs",
               "ToolTip": "C:\\Users\\Rafael\\jogo mono\\Project2\\Project2\\Enemy.cs",
               "RelativeToolTip": "Project2\\Enemy.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAIwCsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwBoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T14:03:51.819Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-25T14:03:51.819Z"
             },
             {
               "$type": "Document",
@@ -67,7 +81,7 @@
               "RelativeDocumentMoniker": "Project2\\Game1.cs",
               "ToolTip": "C:\\Users\\Rafael\\jogo mono\\Project2\\Project2\\Game1.cs",
               "RelativeToolTip": "Project2\\Game1.cs",
-              "ViewState": "AgIAAPYAAAAAAAAAAAAIwBgBAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAANkAAAAAAAAAAAAIwPsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-25T13:49:33.12Z",
               "EditorCaption": ""
